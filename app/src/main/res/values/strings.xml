@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mobile News</string>
+    <string name="no_internet_connection">No hay conexión a internet</string>
+</resources>
